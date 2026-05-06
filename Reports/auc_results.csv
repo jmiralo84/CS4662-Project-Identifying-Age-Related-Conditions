@@ -1,0 +1,11 @@
+Model,AUC
+NN Best (L2+BN+Dropout),0.9835
+NN Baseline,0.9831
+Stacking,0.9764
+XGBoost Weighted,0.9688
+Blending,0.9643
+Tuned Random Forest,0.9574
+Tuned RBF SVM,0.9373
+Tuned Logistic Regression,0.9266
+Logistic Regression (Baseline),0.8977
+Tuned Linear SVM,0.8951
