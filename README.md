@@ -7,7 +7,7 @@ This project builds machine learning models to predict whether an individual has
 
 Our data and project guidelines came from the following competition on Kaggle.com:
 
-[text](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
+[ICR - Identifying Age-Related Conditions](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
 
 We implemented and compared multiple approaches, including:
 - Traditional Machine Learning (Logistic Regression, SVM, Random Forest)
