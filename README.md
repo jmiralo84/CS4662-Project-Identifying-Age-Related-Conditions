@@ -1,5 +1,5 @@
 # Identifying Age-Related Medical Conditions
-## CS4662 Advance Machine and Deep Learning
+## CS4662 Advanced Machine and Deep Learning
 
 ## Project Overview
 
