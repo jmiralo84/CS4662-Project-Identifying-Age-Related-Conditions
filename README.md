@@ -5,6 +5,10 @@
 
 This project builds machine learning models to predict whether an individual has age-related medical conditions using anonymized biomedical data. 
 
+Our data and project guidelines came from the following competition on Kaggle.com:
+
+[text](https://www.kaggle.com/competitions/icr-identify-age-related-conditions)
+
 We implemented and compared multiple approaches, including:
 - Traditional Machine Learning (Logistic Regression, SVM, Random Forest)
 - Boosting (XGBoost)
@@ -29,17 +33,10 @@ Install required packages:
 pandas numpy matplotlib scikit-learn xgboost tensorflow
 
 ## Project Structure & How to Run
-- Data/
-- train.csv
-- test.csv
-- greeks.csv
 
-- Notebooks/
-- data_cleaning.ipynb
-- traditional_ml.ipynb
-- boosting_xgboost.ipynb
-- deep_ensemble_learning.ipynb
-- final_model_comparison.ipynb
+Data/ → Raw data is contained here
+Notebooks/ → Jupyter notebooks
+Reports/ → Final reports and output from data processing
 
 
 ### Run notebooks in this order:
